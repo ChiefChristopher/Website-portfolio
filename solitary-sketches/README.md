@@ -16,3 +16,5 @@ This is a responsive e-commerce webiste where artists can sell artwork or create
 - Stripe
 - MySQL database
 - E-cart
+
+## Live site
