@@ -24,4 +24,4 @@ An e-commerce site for artists to display and sell their custom creations built 
 
 ## Contact
 - Email: dougl.cms@gmail.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/chris-lay-05589b2a8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/chris-lay-05589b2a8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
