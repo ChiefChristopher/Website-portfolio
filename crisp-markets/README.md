@@ -16,4 +16,7 @@ This is a responsive financial news website where users can create account, subs
 - Google signin 
 - YouTube data API integration
 - TradingView API integration
-- MySQL database 
+- MySQL database
+
+## Live Demo
+
