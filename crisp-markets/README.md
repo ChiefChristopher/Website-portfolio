@@ -22,3 +22,7 @@ This is a responsive financial news website where users can create account, subs
 [Check out the live demo](https://www.crisp.markets)
 
 ## Screenshots
+
+## Future Improvements
+- Add additional aggregated content from sources like Spotify
+- Allow content creators to claim their accounts and monetize their experience
