@@ -19,4 +19,6 @@ This is a responsive financial news website where users can create account, subs
 - MySQL database
 
 ## Live Demo
-[Live Demo](https://www.crisp.markets)
+[Check out the live demo](https://www.crisp.markets)
+
+## Screenshots
