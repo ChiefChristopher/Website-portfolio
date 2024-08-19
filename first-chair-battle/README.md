@@ -15,3 +15,6 @@ This is a responsive competition website where users can create account, upload 
 - PHP
 - YouTube data API
 - MySQL database
+
+## Live Demo
+[Live Demo](https://www.firstchairbattle.com/)
