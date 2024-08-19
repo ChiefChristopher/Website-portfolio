@@ -18,4 +18,6 @@ This is a responsive e-commerce webiste where artists can sell artwork or create
 - E-cart
 
 ## Live Demo
-[Live Demo](https://www.solitarysketches.com/)
+[Check out the live demo](https://www.solitarysketches.com/)
+
+## Screenshots
