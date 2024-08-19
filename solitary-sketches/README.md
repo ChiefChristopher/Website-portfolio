@@ -17,4 +17,5 @@ This is a responsive e-commerce webiste where artists can sell artwork or create
 - MySQL database
 - E-cart
 
-## Live site
+## Live Demo
+[Live Demo](https://www.solitarysketches.com/)
